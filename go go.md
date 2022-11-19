@@ -4,4 +4,10 @@ start leaning
 
 *полужир*
 
+* hi
+* hello
+
+1. one
+2. two
+
 wat are you doing
