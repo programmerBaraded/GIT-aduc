@@ -1,3 +1,5 @@
 start leaning
 
-начали знакомство
+*курсив*
+
+wat are you doing
