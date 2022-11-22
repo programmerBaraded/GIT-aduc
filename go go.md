@@ -14,4 +14,4 @@ start leaning
 
 wat are you doing
 
-добавь фото
+![](/monkey%20is%20reading%20manual.jpg)
