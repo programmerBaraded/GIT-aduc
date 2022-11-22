@@ -13,3 +13,5 @@ start leaning
 2. two
 
 wat are you doing
+
+добавь фото
