@@ -13,3 +13,6 @@ start leaning
 2. two
 
 wat are you doing
+
+
+![](/monkey%20is%20reading%20manual.jpg)
